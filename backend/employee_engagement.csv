@@ -1,0 +1,301 @@
+respondent_id,date,satisfaction,work_life_balance,management,growth_opportunities,open_feedback,department,tenure_years
+EE_0000,2024-06-13,5,4,4,5,Love my team,HR,7.0
+EE_0001,2024-09-23,4,4,5,4,Good benefits,Marketing,4.7
+EE_0002,2024-01-17,4,3,3,3,Love my team,HR,2.9
+EE_0003,2024-05-17,5,4,5,5,Good benefits,Marketing,3.3
+EE_0004,2024-08-21,3,3,4,3,It's alright,Sales,8.4
+EE_0005,2024-09-24,4,5,5,5,Great place to work,Product,3.6
+EE_0006,2024-09-17,4,4,5,5,Great place to work,Marketing,1.8
+EE_0007,2024-10-21,1,1,2,1,Poor management,HR,3.3
+EE_0008,2024-11-04,5,5,5,5,Great place to work,Engineering,0.6
+EE_0009,2024-09-08,5,4,5,5,Love my team,Product,8.8
+EE_0010,2024-10-30,4,4,3,4,Great place to work,Sales,9.8
+EE_0011,2024-05-11,3,3,2,3,Average experience,Marketing,9.2
+EE_0012,2024-07-07,5,4,5,5,Good benefits,Engineering,9.4
+EE_0013,2024-08-26,3,2,4,3,Needs better communication,Product,0.9
+EE_0014,2024-08-31,4,3,4,3,Great place to work,Finance,7.6
+EE_0015,2024-08-27,3,3,4,3,Average experience,Sales,1.7
+EE_0016,2024-07-09,4,4,4,4,Great place to work,Marketing,8.5
+EE_0017,2024-02-05,4,5,3,3,Great place to work,Marketing,1.2
+EE_0018,2024-06-14,5,4,5,5,Good benefits,Marketing,9.0
+EE_0019,2024-10-01,5,4,5,5,Good benefits,Sales,2.2
+EE_0020,2024-10-08,4,3,5,5,Great place to work,Sales,9.9
+EE_0021,2024-04-03,2,1,2,2,Overworked,Sales,1.1
+EE_0022,2024-06-28,5,5,5,5,Love my team,Sales,3.2
+EE_0023,2024-09-01,2,1,2,3,No growth opportunities,Sales,1.2
+EE_0024,2024-01-09,2,1,2,2,Poor management,HR,2.6
+EE_0025,2024-08-11,3,4,3,3,It's alright,Sales,10.0
+EE_0026,2024-05-19,4,4,3,3,Love my team,Sales,5.9
+EE_0027,2024-08-07,4,5,4,5,Great place to work,Finance,1.1
+EE_0028,2024-01-28,5,5,5,4,Great place to work,Marketing,3.6
+EE_0029,2024-12-26,3,4,2,3,Average experience,Sales,4.4
+EE_0030,2024-08-26,5,5,5,5,Love my team,Sales,9.6
+EE_0031,2024-06-18,3,2,3,2,It's alright,HR,9.9
+EE_0032,2024-10-24,5,5,5,4,Great place to work,Sales,1.6
+EE_0033,2024-11-07,3,4,2,2,Needs better communication,Product,5.1
+EE_0034,2024-12-28,5,5,5,5,Great place to work,Product,4.4
+EE_0035,2024-03-16,4,3,3,3,Great place to work,Finance,6.5
+EE_0036,2024-04-27,5,4,4,4,Love my team,Engineering,7.7
+EE_0037,2024-06-18,5,5,4,5,Great place to work,HR,2.9
+EE_0038,2024-01-07,3,3,2,2,It's alright,Engineering,1.5
+EE_0039,2024-09-11,4,5,5,3,Great place to work,Product,8.4
+EE_0040,2024-10-21,4,4,5,4,Good benefits,Sales,7.5
+EE_0041,2024-04-12,3,4,3,4,Needs better communication,HR,1.6
+EE_0042,2024-05-14,5,5,4,5,Good benefits,Finance,8.7
+EE_0043,2024-10-11,5,4,5,5,Great place to work,Sales,2.4
+EE_0044,2024-07-25,5,5,4,4,Great place to work,Sales,6.0
+EE_0045,2024-06-01,5,5,4,4,Great place to work,Marketing,8.1
+EE_0046,2024-09-25,3,4,3,4,Needs better communication,HR,1.9
+EE_0047,2024-07-30,1,1,1,1,Overworked,Marketing,4.1
+EE_0048,2024-11-07,4,3,5,3,Good benefits,Sales,8.7
+EE_0049,2024-04-13,3,3,4,4,Needs better communication,Sales,8.3
+EE_0050,2024-03-24,5,5,5,5,Love my team,HR,0.6
+EE_0051,2024-03-27,2,3,1,1,Overworked,Marketing,2.8
+EE_0052,2024-11-13,4,4,5,3,Great place to work,Sales,5.4
+EE_0053,2024-09-25,5,4,4,4,Good benefits,Sales,8.2
+EE_0054,2024-11-04,5,4,4,5,Good benefits,Marketing,3.2
+EE_0055,2024-06-14,5,5,5,4,Great place to work,HR,4.3
+EE_0056,2024-10-29,5,5,5,5,Great place to work,HR,1.0
+EE_0057,2024-10-02,4,4,3,3,Love my team,Finance,7.4
+EE_0058,2024-01-27,1,1,1,2,Overworked,HR,2.9
+EE_0059,2024-07-24,5,5,5,5,Great place to work,Engineering,8.7
+EE_0060,2024-02-22,4,3,4,5,Love my team,HR,7.4
+EE_0061,2024-05-23,5,5,5,5,Great place to work,Engineering,4.7
+EE_0062,2024-04-06,3,4,4,2,Needs better communication,Engineering,1.6
+EE_0063,2024-02-04,3,4,2,4,It's alright,Product,2.9
+EE_0064,2024-04-16,4,5,3,3,Love my team,Finance,2.2
+EE_0065,2024-11-10,1,1,1,2,No growth opportunities,Marketing,7.4
+EE_0066,2024-01-16,5,4,4,5,Good benefits,Finance,4.5
+EE_0067,2024-07-24,4,4,3,3,Good benefits,Sales,4.7
+EE_0068,2024-07-17,5,5,4,5,Good benefits,Sales,3.0
+EE_0069,2024-10-20,4,5,4,4,Good benefits,HR,0.5
+EE_0070,2024-04-30,4,3,4,3,Love my team,HR,8.4
+EE_0071,2024-12-26,3,2,4,3,Average experience,Engineering,9.7
+EE_0072,2024-10-01,5,5,5,5,Great place to work,Engineering,1.7
+EE_0073,2024-01-02,4,3,3,4,Great place to work,Product,7.3
+EE_0074,2024-02-26,4,4,3,4,Great place to work,Product,2.3
+EE_0075,2024-05-02,3,4,4,4,It's alright,Marketing,1.7
+EE_0076,2024-07-29,5,5,4,5,Love my team,HR,3.0
+EE_0077,2024-09-11,3,2,4,2,Needs better communication,HR,7.9
+EE_0078,2024-01-16,4,4,4,4,Great place to work,Product,3.8
+EE_0079,2024-06-30,4,3,5,5,Great place to work,Sales,6.9
+EE_0080,2024-02-21,5,5,5,5,Good benefits,Finance,5.6
+EE_0081,2024-12-13,4,5,5,3,Love my team,Product,6.2
+EE_0082,2024-01-24,3,3,3,2,It's alright,Marketing,2.8
+EE_0083,2024-05-18,4,3,3,4,Great place to work,Sales,4.5
+EE_0084,2024-04-27,2,2,2,1,Poor management,Marketing,8.0
+EE_0085,2024-03-05,4,3,3,4,Good benefits,HR,1.8
+EE_0086,2024-08-28,4,3,5,4,Love my team,Product,5.1
+EE_0087,2024-10-20,2,1,1,1,Overworked,Marketing,2.4
+EE_0088,2024-08-09,2,1,3,2,Poor management,Finance,1.7
+EE_0089,2024-05-26,5,4,4,4,Great place to work,Finance,6.2
+EE_0090,2024-03-11,4,3,3,4,Great place to work,Marketing,3.2
+EE_0091,2024-04-01,4,5,4,5,Great place to work,Engineering,0.6
+EE_0092,2024-10-03,3,3,3,4,Needs better communication,Sales,2.5
+EE_0093,2024-04-22,4,5,4,4,Good benefits,Finance,4.0
+EE_0094,2024-12-14,5,5,5,5,Great place to work,Finance,2.8
+EE_0095,2024-02-08,4,3,3,3,Great place to work,HR,3.1
+EE_0096,2024-03-15,5,4,5,5,Love my team,Sales,1.1
+EE_0097,2024-12-22,4,4,3,5,Good benefits,Sales,1.0
+EE_0098,2024-06-05,4,3,4,5,Good benefits,Sales,7.0
+EE_0099,2024-11-07,5,5,4,5,Good benefits,Marketing,2.1
+EE_0100,2024-08-25,2,3,3,1,No growth opportunities,Finance,2.4
+EE_0101,2024-06-27,3,3,3,4,Average experience,Product,4.9
+EE_0102,2024-02-21,5,5,4,4,Love my team,Engineering,1.8
+EE_0103,2024-04-03,5,5,5,5,Good benefits,Marketing,5.2
+EE_0104,2024-11-08,4,3,5,5,Great place to work,Marketing,2.2
+EE_0105,2024-12-14,3,3,3,2,Needs better communication,HR,1.1
+EE_0106,2024-07-20,2,2,2,3,Poor management,Sales,6.0
+EE_0107,2024-04-03,4,5,3,4,Love my team,Engineering,1.4
+EE_0108,2024-09-04,3,3,3,4,Average experience,Sales,5.2
+EE_0109,2024-01-03,2,2,3,2,Poor management,Product,6.3
+EE_0110,2024-04-17,4,5,5,4,Good benefits,HR,6.9
+EE_0111,2024-12-30,4,3,3,4,Good benefits,Product,5.2
+EE_0112,2024-10-18,3,4,4,4,Average experience,HR,4.1
+EE_0113,2024-06-01,5,4,5,5,Good benefits,Finance,7.2
+EE_0114,2024-08-27,4,4,4,4,Love my team,Engineering,6.5
+EE_0115,2024-03-20,4,4,3,5,Good benefits,Marketing,1.9
+EE_0116,2024-08-01,4,3,4,4,Love my team,Product,0.5
+EE_0117,2024-10-31,3,2,2,3,Needs better communication,Product,9.8
+EE_0118,2024-12-03,4,3,5,5,Love my team,HR,1.7
+EE_0119,2024-07-27,4,3,4,5,Love my team,Product,2.8
+EE_0120,2024-04-18,5,5,5,5,Good benefits,Product,4.1
+EE_0121,2024-10-11,3,2,4,4,Needs better communication,HR,8.5
+EE_0122,2024-10-21,4,3,3,3,Good benefits,Marketing,7.4
+EE_0123,2024-09-24,2,2,1,3,Poor management,Engineering,7.7
+EE_0124,2024-05-09,4,4,5,5,Love my team,Product,2.7
+EE_0125,2024-03-15,5,5,5,5,Great place to work,HR,2.8
+EE_0126,2024-06-24,2,2,2,3,No growth opportunities,HR,3.0
+EE_0127,2024-06-23,4,4,3,5,Great place to work,Product,7.9
+EE_0128,2024-11-30,4,5,5,4,Good benefits,Product,1.6
+EE_0129,2024-10-03,4,4,5,3,Great place to work,Engineering,4.4
+EE_0130,2024-01-19,5,5,5,4,Great place to work,Marketing,8.1
+EE_0131,2024-07-30,4,3,4,5,Great place to work,Engineering,10.0
+EE_0132,2024-09-15,4,5,4,3,Great place to work,Finance,1.9
+EE_0133,2024-09-08,4,3,4,4,Love my team,Product,6.1
+EE_0134,2024-07-19,4,4,5,5,Great place to work,Sales,1.7
+EE_0135,2024-08-06,3,4,3,3,It's alright,Finance,7.8
+EE_0136,2024-10-31,5,5,5,4,Good benefits,Engineering,1.1
+EE_0137,2024-03-03,4,3,5,4,Love my team,Product,2.7
+EE_0138,2024-04-16,2,2,2,2,Poor management,Finance,1.9
+EE_0139,2024-05-25,5,4,4,5,Love my team,Product,2.6
+EE_0140,2024-10-22,4,4,5,4,Good benefits,HR,5.9
+EE_0141,2024-03-29,4,4,4,4,Great place to work,Engineering,3.4
+EE_0142,2024-07-15,4,4,3,3,Love my team,Finance,5.1
+EE_0143,2024-08-14,4,3,4,3,Love my team,Finance,1.2
+EE_0144,2024-09-16,4,4,5,3,Great place to work,Finance,5.0
+EE_0145,2024-02-14,2,2,2,3,Overworked,HR,7.5
+EE_0146,2024-11-10,1,2,1,1,Poor management,Sales,1.0
+EE_0147,2024-11-02,4,5,4,4,Love my team,Engineering,9.2
+EE_0148,2024-04-20,5,5,5,5,Great place to work,Engineering,5.8
+EE_0149,2024-02-04,3,4,4,3,It's alright,HR,1.8
+EE_0150,2024-12-12,3,3,3,4,It's alright,Product,7.9
+EE_0151,2024-09-21,5,4,5,5,Great place to work,Marketing,7.3
+EE_0152,2024-03-02,3,4,2,3,Needs better communication,Finance,4.9
+EE_0153,2024-08-05,1,1,1,2,Overworked,Engineering,8.6
+EE_0154,2024-08-27,3,3,2,3,Average experience,Sales,5.5
+EE_0155,2024-03-10,4,4,5,5,Good benefits,Engineering,8.9
+EE_0156,2024-08-09,3,2,3,3,Needs better communication,HR,9.4
+EE_0157,2024-01-04,5,4,4,4,Love my team,Finance,6.5
+EE_0158,2024-01-05,4,5,5,4,Great place to work,Marketing,3.2
+EE_0159,2024-01-01,3,3,4,3,Needs better communication,HR,6.7
+EE_0160,2024-11-13,3,2,3,4,Needs better communication,Finance,4.6
+EE_0161,2024-04-19,3,2,2,3,Needs better communication,Finance,6.3
+EE_0162,2024-12-27,5,4,5,5,Good benefits,Product,4.2
+EE_0163,2024-04-13,5,4,4,4,Great place to work,Product,0.7
+EE_0164,2024-04-21,2,1,1,1,No growth opportunities,Sales,1.4
+EE_0165,2024-08-27,4,3,3,5,Great place to work,Finance,8.1
+EE_0166,2024-11-08,3,3,4,2,It's alright,Finance,1.5
+EE_0167,2024-11-12,4,5,5,3,Good benefits,Finance,3.3
+EE_0168,2024-12-05,5,4,5,4,Love my team,Product,6.9
+EE_0169,2024-03-28,2,2,3,1,Overworked,Marketing,2.3
+EE_0170,2024-08-23,1,1,1,2,Poor management,Sales,2.6
+EE_0171,2024-02-29,3,3,4,3,Average experience,Sales,3.7
+EE_0172,2024-03-11,4,5,3,4,Love my team,Engineering,8.1
+EE_0173,2024-11-07,2,1,2,2,Overworked,Marketing,4.7
+EE_0174,2024-05-28,5,5,5,5,Good benefits,HR,5.7
+EE_0175,2024-05-30,4,5,3,3,Great place to work,Engineering,5.3
+EE_0176,2024-12-04,5,4,5,4,Love my team,Engineering,0.7
+EE_0177,2024-11-02,4,3,4,3,Love my team,HR,4.3
+EE_0178,2024-08-22,4,4,3,3,Good benefits,Sales,6.0
+EE_0179,2024-11-09,4,5,5,4,Good benefits,Finance,6.9
+EE_0180,2024-01-16,5,5,4,5,Good benefits,Finance,1.8
+EE_0181,2024-11-23,4,5,5,4,Love my team,HR,5.8
+EE_0182,2024-02-25,2,2,1,1,No growth opportunities,Engineering,5.2
+EE_0183,2024-08-08,3,4,4,2,It's alright,Engineering,9.3
+EE_0184,2024-05-03,5,4,4,5,Love my team,Engineering,7.8
+EE_0185,2024-04-04,4,3,4,4,Great place to work,HR,6.1
+EE_0186,2024-04-07,5,5,5,4,Good benefits,Finance,7.4
+EE_0187,2024-05-02,2,3,3,2,Poor management,Engineering,6.2
+EE_0188,2024-01-11,2,2,3,1,No growth opportunities,Sales,9.9
+EE_0189,2024-10-04,4,3,4,5,Great place to work,Marketing,7.4
+EE_0190,2024-04-29,3,3,4,4,It's alright,Product,0.8
+EE_0191,2024-12-06,2,1,3,1,No growth opportunities,Finance,0.6
+EE_0192,2024-01-26,1,2,2,1,Poor management,Finance,9.1
+EE_0193,2024-02-16,4,5,3,3,Great place to work,HR,6.5
+EE_0194,2024-03-22,4,4,4,5,Love my team,HR,1.3
+EE_0195,2024-09-03,3,4,4,4,It's alright,HR,3.9
+EE_0196,2024-11-23,5,5,5,4,Love my team,HR,1.6
+EE_0197,2024-03-12,2,3,2,3,Poor management,HR,6.0
+EE_0198,2024-11-07,4,3,4,4,Love my team,HR,2.0
+EE_0199,2024-05-10,3,4,2,2,Needs better communication,Finance,0.9
+EE_0200,2024-12-03,3,4,3,4,Average experience,Engineering,7.5
+EE_0201,2024-03-31,2,1,2,1,No growth opportunities,Sales,7.7
+EE_0202,2024-09-06,2,1,1,2,Poor management,Marketing,8.6
+EE_0203,2024-04-12,5,4,4,5,Great place to work,Marketing,7.0
+EE_0204,2024-01-27,4,4,4,3,Good benefits,HR,2.9
+EE_0205,2024-11-05,5,5,4,4,Good benefits,Engineering,5.1
+EE_0206,2024-04-14,4,4,4,3,Good benefits,Engineering,3.0
+EE_0207,2024-11-05,5,5,5,4,Good benefits,Marketing,5.4
+EE_0208,2024-10-22,4,5,5,4,Great place to work,HR,1.5
+EE_0209,2024-12-26,5,4,4,5,Great place to work,HR,10.0
+EE_0210,2024-02-26,3,4,2,2,Average experience,Product,3.2
+EE_0211,2024-08-19,4,3,3,3,Great place to work,Marketing,5.5
+EE_0212,2024-07-01,5,4,5,4,Good benefits,Marketing,0.7
+EE_0213,2024-08-16,4,4,5,4,Good benefits,Engineering,8.9
+EE_0214,2024-06-10,4,3,3,5,Love my team,Sales,1.9
+EE_0215,2024-02-26,5,5,5,4,Great place to work,Marketing,8.3
+EE_0216,2024-11-21,2,2,1,3,No growth opportunities,Engineering,1.6
+EE_0217,2024-09-18,3,4,3,4,Needs better communication,Engineering,2.7
+EE_0218,2024-05-21,2,2,1,1,No growth opportunities,Finance,7.6
+EE_0219,2024-01-18,5,5,5,5,Love my team,Sales,4.5
+EE_0220,2024-04-20,4,5,5,3,Good benefits,Product,3.0
+EE_0221,2024-08-08,5,5,5,5,Love my team,Product,4.7
+EE_0222,2024-05-18,4,4,3,4,Great place to work,HR,3.0
+EE_0223,2024-05-20,4,4,4,5,Good benefits,HR,1.5
+EE_0224,2024-05-14,4,4,5,4,Good benefits,Product,0.7
+EE_0225,2024-10-09,2,3,3,2,No growth opportunities,Engineering,6.7
+EE_0226,2024-12-30,2,3,3,2,Poor management,HR,10.0
+EE_0227,2024-12-02,5,5,5,5,Good benefits,HR,6.9
+EE_0228,2024-06-08,4,4,4,4,Good benefits,Sales,2.3
+EE_0229,2024-11-14,5,5,4,5,Good benefits,Marketing,0.8
+EE_0230,2024-06-27,4,5,4,4,Love my team,Marketing,1.5
+EE_0231,2024-12-20,2,3,3,1,Poor management,Engineering,9.8
+EE_0232,2024-11-06,1,2,1,2,No growth opportunities,Engineering,6.4
+EE_0233,2024-10-28,4,5,4,3,Love my team,Engineering,7.6
+EE_0234,2024-12-12,4,3,4,5,Good benefits,HR,7.4
+EE_0235,2024-10-22,2,2,2,2,No growth opportunities,Engineering,6.0
+EE_0236,2024-02-23,2,1,2,2,Overworked,Product,6.8
+EE_0237,2024-06-18,4,3,3,3,Love my team,Product,2.4
+EE_0238,2024-08-06,4,5,3,4,Good benefits,HR,4.1
+EE_0239,2024-12-06,4,3,3,5,Love my team,Finance,0.9
+EE_0240,2024-07-31,4,5,5,5,Great place to work,HR,8.9
+EE_0241,2024-09-22,4,4,4,5,Good benefits,Engineering,2.8
+EE_0242,2024-12-26,5,5,4,5,Good benefits,Engineering,2.5
+EE_0243,2024-03-04,5,5,4,4,Great place to work,Product,4.1
+EE_0244,2024-05-01,3,2,3,3,Average experience,HR,7.2
+EE_0245,2024-10-19,4,5,3,5,Good benefits,Product,3.6
+EE_0246,2024-08-24,5,5,5,5,Love my team,HR,7.9
+EE_0247,2024-04-30,5,5,4,5,Love my team,Finance,9.9
+EE_0248,2024-08-28,3,4,2,4,It's alright,Product,3.6
+EE_0249,2024-09-06,4,4,3,3,Love my team,Marketing,7.3
+EE_0250,2024-04-23,2,3,2,3,Poor management,Product,0.5
+EE_0251,2024-03-09,4,3,4,3,Love my team,Marketing,8.1
+EE_0252,2024-10-08,1,2,2,1,No growth opportunities,Sales,2.8
+EE_0253,2024-05-26,4,5,5,4,Good benefits,Engineering,2.8
+EE_0254,2024-09-21,4,3,5,3,Great place to work,Finance,8.7
+EE_0255,2024-12-04,4,5,4,5,Good benefits,Finance,8.0
+EE_0256,2024-04-02,1,1,1,1,No growth opportunities,HR,6.6
+EE_0257,2024-11-11,4,5,5,5,Great place to work,Marketing,8.9
+EE_0258,2024-05-05,4,4,4,4,Love my team,Engineering,4.6
+EE_0259,2024-03-25,3,2,4,2,Average experience,Finance,4.0
+EE_0260,2024-10-31,3,3,3,2,Needs better communication,Sales,4.4
+EE_0261,2024-03-07,4,5,4,5,Love my team,Product,2.3
+EE_0262,2024-01-13,4,5,5,3,Good benefits,Marketing,8.4
+EE_0263,2024-12-02,3,3,2,4,Average experience,HR,9.4
+EE_0264,2024-12-02,3,4,4,2,Average experience,Sales,4.0
+EE_0265,2024-07-06,4,4,4,3,Great place to work,Engineering,3.7
+EE_0266,2024-12-10,4,4,5,4,Good benefits,HR,1.9
+EE_0267,2024-02-01,4,4,5,4,Love my team,HR,9.3
+EE_0268,2024-02-07,4,3,5,5,Love my team,Marketing,1.3
+EE_0269,2024-03-18,3,2,2,3,Average experience,Sales,5.2
+EE_0270,2024-10-11,1,1,1,1,Overworked,HR,4.1
+EE_0271,2024-02-17,4,3,4,5,Great place to work,Marketing,9.3
+EE_0272,2024-11-08,4,4,3,3,Love my team,Sales,2.9
+EE_0273,2024-12-30,3,4,3,2,It's alright,Marketing,7.8
+EE_0274,2024-03-19,3,2,2,4,It's alright,Sales,5.2
+EE_0275,2024-06-07,2,1,2,3,Poor management,Sales,5.2
+EE_0276,2024-07-25,4,4,4,4,Good benefits,Marketing,8.7
+EE_0277,2024-10-06,1,1,1,2,No growth opportunities,Product,8.7
+EE_0278,2024-01-14,5,5,5,5,Great place to work,Engineering,8.9
+EE_0279,2024-04-13,5,4,4,4,Great place to work,Finance,0.9
+EE_0280,2024-09-27,5,5,4,4,Good benefits,Marketing,6.4
+EE_0281,2024-01-23,5,5,4,4,Great place to work,HR,3.0
+EE_0282,2024-04-14,3,3,4,3,It's alright,Product,9.7
+EE_0283,2024-03-09,2,1,1,1,Overworked,Marketing,1.0
+EE_0284,2024-01-19,5,5,5,4,Love my team,Engineering,4.8
+EE_0285,2024-08-04,4,4,3,4,Love my team,Product,8.9
+EE_0286,2024-01-10,5,5,5,5,Great place to work,Marketing,9.3
+EE_0287,2024-12-09,3,2,2,2,It's alright,Marketing,6.9
+EE_0288,2024-07-11,5,4,4,4,Love my team,Product,8.0
+EE_0289,2024-07-26,2,2,3,1,Overworked,Engineering,4.9
+EE_0290,2024-02-15,3,4,2,4,Needs better communication,Finance,3.5
+EE_0291,2024-07-09,4,5,3,5,Love my team,HR,8.5
+EE_0292,2024-03-30,3,3,3,4,Needs better communication,Marketing,1.8
+EE_0293,2024-06-21,4,5,3,3,Good benefits,Marketing,3.0
+EE_0294,2024-10-14,5,4,5,5,Great place to work,Sales,7.9
+EE_0295,2024-03-11,4,4,4,5,Love my team,Engineering,2.0
+EE_0296,2024-08-25,5,4,4,4,Great place to work,Sales,3.7
+EE_0297,2024-07-07,5,5,5,4,Love my team,Finance,2.3
+EE_0298,2024-01-16,5,5,4,4,Love my team,Finance,3.4
+EE_0299,2024-10-16,3,4,2,3,It's alright,HR,4.6

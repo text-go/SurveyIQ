@@ -1,0 +1,201 @@
+respondent_id,event_date,overall_rating,speaker_rating,venue_rating,most_valuable,least_valuable,attend_again,event_type
+EV_0000,2024-06-02,4,4,3,Q&A session,Long breaks,yes,Conference
+EV_0001,2024-02-12,3,2,4,Networking,Long breaks,no,Conference
+EV_0002,2024-03-09,5,5,5,Q&A session,Venue location,yes,Workshop
+EV_0003,2024-02-15,5,5,4,Networking,Venue location,yes,Conference
+EV_0004,2024-01-22,3,4,4,Q&A session,Food,no,Webinar
+EV_0005,2024-06-09,4,5,3,Keynote,Venue location,yes,Webinar
+EV_0006,2024-01-21,5,5,5,Q&A session,Food,yes,Workshop
+EV_0007,2024-03-10,2,3,1,Networking,Long breaks,no,Training
+EV_0008,2024-10-01,5,5,5,Q&A session,Long breaks,yes,Webinar
+EV_0009,2024-05-06,5,5,5,Q&A session,Food,yes,Webinar
+EV_0010,2024-09-26,4,4,3,Networking,Food,yes,Workshop
+EV_0011,2024-08-02,4,4,3,Keynote,Venue location,yes,Conference
+EV_0012,2024-12-19,5,5,5,Keynote,Food,yes,Workshop
+EV_0013,2024-02-15,5,5,5,Q&A session,Food,yes,Webinar
+EV_0014,2024-12-16,5,5,5,Networking,Food,yes,Workshop
+EV_0015,2024-09-06,3,2,3,Networking,Long breaks,no,Training
+EV_0016,2024-04-14,4,5,3,Networking,Long breaks,yes,Workshop
+EV_0017,2024-01-25,1,2,2,Keynote,Venue location,no,Webinar
+EV_0018,2024-03-02,5,5,5,Networking,Venue location,yes,Workshop
+EV_0019,2024-05-28,4,3,3,Keynote,Venue location,yes,Training
+EV_0020,2024-04-07,4,3,3,Q&A session,Long breaks,yes,Conference
+EV_0021,2024-07-21,1,1,1,Keynote,Long breaks,no,Workshop
+EV_0022,2024-05-06,5,5,5,Q&A session,Food,yes,Workshop
+EV_0023,2024-09-25,5,5,5,Q&A session,Food,yes,Workshop
+EV_0024,2024-02-12,5,5,5,Keynote,Food,yes,Workshop
+EV_0025,2024-11-18,5,5,5,Q&A session,Venue location,yes,Workshop
+EV_0026,2024-07-18,5,4,5,Networking,Venue location,yes,Conference
+EV_0027,2024-08-31,5,4,4,Keynote,Long breaks,yes,Training
+EV_0028,2024-10-30,4,3,3,Networking,Long breaks,yes,Conference
+EV_0029,2024-09-03,5,4,5,Networking,Food,yes,Training
+EV_0030,2024-01-20,4,4,3,Networking,Venue location,yes,Workshop
+EV_0031,2024-11-23,4,4,5,Keynote,Food,yes,Workshop
+EV_0032,2024-12-07,5,5,4,Keynote,Food,yes,Webinar
+EV_0033,2024-01-19,4,3,4,Networking,Food,yes,Training
+EV_0034,2024-01-15,4,3,4,Q&A session,Venue location,yes,Workshop
+EV_0035,2024-10-18,5,5,5,Networking,Food,yes,Training
+EV_0036,2024-03-06,3,2,3,Networking,Venue location,no,Webinar
+EV_0037,2024-03-17,5,5,4,Keynote,Long breaks,yes,Workshop
+EV_0038,2024-11-03,4,3,5,Networking,Venue location,yes,Workshop
+EV_0039,2024-07-01,3,3,3,Keynote,Venue location,no,Workshop
+EV_0040,2024-05-04,5,5,5,Keynote,Venue location,yes,Workshop
+EV_0041,2024-03-16,5,4,5,Networking,Food,yes,Conference
+EV_0042,2024-07-12,5,5,5,Networking,Venue location,yes,Workshop
+EV_0043,2024-05-29,5,5,4,Keynote,Venue location,yes,Webinar
+EV_0044,2024-01-16,5,5,5,Q&A session,Venue location,yes,Webinar
+EV_0045,2024-03-21,5,4,4,Q&A session,Venue location,yes,Webinar
+EV_0046,2024-11-02,4,4,4,Networking,Venue location,yes,Training
+EV_0047,2024-03-04,5,5,5,Networking,Long breaks,yes,Workshop
+EV_0048,2024-05-02,4,3,5,Q&A session,Venue location,yes,Webinar
+EV_0049,2024-11-11,5,5,5,Networking,Venue location,yes,Training
+EV_0050,2024-10-25,3,3,4,Keynote,Food,no,Webinar
+EV_0051,2024-02-09,5,4,5,Q&A session,Long breaks,yes,Workshop
+EV_0052,2024-01-09,3,3,3,Networking,Food,no,Conference
+EV_0053,2024-04-03,1,2,1,Q&A session,Food,no,Workshop
+EV_0054,2024-04-28,5,5,4,Networking,Food,yes,Conference
+EV_0055,2024-03-29,5,4,5,Keynote,Long breaks,yes,Conference
+EV_0056,2024-06-16,4,5,5,Networking,Food,yes,Workshop
+EV_0057,2024-11-14,5,5,5,Networking,Food,yes,Workshop
+EV_0058,2024-01-10,5,5,5,Keynote,Venue location,yes,Workshop
+EV_0059,2024-01-14,4,4,3,Q&A session,Venue location,yes,Conference
+EV_0060,2024-05-06,4,3,4,Networking,Food,yes,Workshop
+EV_0061,2024-05-22,1,1,2,Q&A session,Food,no,Webinar
+EV_0062,2024-10-12,5,5,5,Keynote,Long breaks,yes,Training
+EV_0063,2024-02-27,2,1,2,Q&A session,Food,no,Webinar
+EV_0064,2024-07-20,3,2,2,Q&A session,Food,no,Conference
+EV_0065,2024-04-17,4,5,5,Networking,Long breaks,yes,Workshop
+EV_0066,2024-05-02,5,5,4,Networking,Long breaks,yes,Webinar
+EV_0067,2024-11-10,5,5,4,Keynote,Venue location,yes,Webinar
+EV_0068,2024-03-21,5,5,4,Networking,Food,yes,Conference
+EV_0069,2024-05-02,4,3,4,Q&A session,Long breaks,yes,Training
+EV_0070,2024-10-05,1,1,2,Keynote,Food,no,Training
+EV_0071,2024-01-14,2,2,3,Q&A session,Long breaks,no,Workshop
+EV_0072,2024-02-11,4,3,4,Keynote,Venue location,yes,Training
+EV_0073,2024-10-04,5,5,5,Networking,Venue location,yes,Conference
+EV_0074,2024-08-17,4,5,4,Keynote,Venue location,yes,Conference
+EV_0075,2024-04-16,5,4,5,Networking,Food,yes,Conference
+EV_0076,2024-10-19,3,2,3,Q&A session,Food,no,Webinar
+EV_0077,2024-12-27,5,5,5,Networking,Long breaks,yes,Webinar
+EV_0078,2024-02-21,4,3,3,Keynote,Venue location,yes,Webinar
+EV_0079,2024-09-14,5,5,4,Networking,Venue location,yes,Workshop
+EV_0080,2024-05-09,5,5,5,Networking,Venue location,yes,Conference
+EV_0081,2024-02-21,4,5,3,Keynote,Long breaks,yes,Training
+EV_0082,2024-02-16,4,4,5,Networking,Venue location,yes,Training
+EV_0083,2024-12-01,5,4,5,Networking,Venue location,yes,Workshop
+EV_0084,2024-09-19,5,5,5,Networking,Long breaks,yes,Webinar
+EV_0085,2024-05-11,5,5,4,Networking,Venue location,yes,Webinar
+EV_0086,2024-05-05,3,4,4,Q&A session,Food,no,Webinar
+EV_0087,2024-01-28,5,4,5,Keynote,Venue location,yes,Workshop
+EV_0088,2024-04-09,3,3,4,Networking,Long breaks,no,Conference
+EV_0089,2024-11-26,4,3,4,Q&A session,Food,yes,Conference
+EV_0090,2024-06-20,4,5,3,Keynote,Food,yes,Conference
+EV_0091,2024-05-16,4,3,5,Keynote,Venue location,yes,Conference
+EV_0092,2024-02-21,5,4,5,Keynote,Venue location,yes,Training
+EV_0093,2024-12-07,5,5,5,Keynote,Venue location,yes,Workshop
+EV_0094,2024-01-30,3,4,2,Keynote,Venue location,no,Conference
+EV_0095,2024-12-06,3,2,4,Q&A session,Food,no,Training
+EV_0096,2024-08-19,5,4,5,Networking,Long breaks,yes,Training
+EV_0097,2024-12-25,5,4,5,Keynote,Food,yes,Training
+EV_0098,2024-08-09,5,4,5,Networking,Venue location,yes,Conference
+EV_0099,2024-05-15,4,3,4,Networking,Food,yes,Training
+EV_0100,2024-12-30,4,5,3,Networking,Long breaks,yes,Webinar
+EV_0101,2024-07-21,1,1,2,Networking,Long breaks,no,Training
+EV_0102,2024-10-10,4,3,3,Q&A session,Long breaks,yes,Conference
+EV_0103,2024-10-18,4,5,5,Networking,Food,yes,Workshop
+EV_0104,2024-05-20,4,4,4,Networking,Long breaks,yes,Webinar
+EV_0105,2024-03-12,5,5,5,Keynote,Venue location,yes,Webinar
+EV_0106,2024-03-17,5,5,5,Keynote,Long breaks,yes,Training
+EV_0107,2024-12-25,2,1,1,Q&A session,Long breaks,no,Training
+EV_0108,2024-03-06,5,5,5,Networking,Venue location,yes,Conference
+EV_0109,2024-03-26,4,4,4,Keynote,Food,yes,Workshop
+EV_0110,2024-08-13,4,4,3,Q&A session,Food,yes,Webinar
+EV_0111,2024-05-10,4,4,5,Q&A session,Food,yes,Training
+EV_0112,2024-05-22,5,4,5,Keynote,Food,yes,Workshop
+EV_0113,2024-05-07,4,4,3,Keynote,Food,yes,Training
+EV_0114,2024-05-06,3,2,2,Keynote,Food,no,Webinar
+EV_0115,2024-01-23,2,1,1,Q&A session,Venue location,no,Webinar
+EV_0116,2024-12-05,3,4,3,Keynote,Food,no,Webinar
+EV_0117,2024-04-27,4,3,5,Q&A session,Long breaks,yes,Training
+EV_0118,2024-09-29,5,4,5,Q&A session,Long breaks,yes,Workshop
+EV_0119,2024-08-31,4,3,5,Networking,Long breaks,yes,Workshop
+EV_0120,2024-01-12,2,3,2,Keynote,Food,no,Webinar
+EV_0121,2024-03-09,4,3,5,Networking,Food,yes,Webinar
+EV_0122,2024-07-12,4,4,3,Keynote,Long breaks,yes,Workshop
+EV_0123,2024-11-04,4,5,5,Keynote,Long breaks,yes,Conference
+EV_0124,2024-11-02,1,1,1,Q&A session,Food,no,Conference
+EV_0125,2024-04-24,4,4,3,Keynote,Long breaks,yes,Conference
+EV_0126,2024-07-03,5,5,5,Networking,Long breaks,yes,Training
+EV_0127,2024-09-30,4,3,5,Keynote,Venue location,yes,Workshop
+EV_0128,2024-10-14,3,2,4,Keynote,Food,no,Training
+EV_0129,2024-06-17,4,3,4,Networking,Food,yes,Training
+EV_0130,2024-08-26,5,4,5,Q&A session,Venue location,yes,Webinar
+EV_0131,2024-10-12,3,4,4,Keynote,Venue location,no,Workshop
+EV_0132,2024-06-08,5,4,4,Networking,Food,yes,Training
+EV_0133,2024-07-09,5,5,4,Networking,Venue location,yes,Webinar
+EV_0134,2024-02-15,4,3,4,Q&A session,Long breaks,yes,Webinar
+EV_0135,2024-01-24,5,5,5,Networking,Venue location,yes,Webinar
+EV_0136,2024-11-15,5,4,4,Networking,Long breaks,yes,Webinar
+EV_0137,2024-07-29,3,4,4,Q&A session,Food,no,Workshop
+EV_0138,2024-07-19,5,5,5,Q&A session,Food,yes,Webinar
+EV_0139,2024-06-30,4,3,5,Q&A session,Long breaks,yes,Conference
+EV_0140,2024-02-25,5,5,5,Q&A session,Venue location,yes,Conference
+EV_0141,2024-01-16,5,4,5,Networking,Venue location,yes,Workshop
+EV_0142,2024-01-24,4,4,5,Keynote,Venue location,yes,Webinar
+EV_0143,2024-05-12,5,5,5,Networking,Venue location,yes,Webinar
+EV_0144,2024-08-01,4,5,3,Keynote,Venue location,yes,Workshop
+EV_0145,2024-03-18,4,3,4,Keynote,Venue location,yes,Webinar
+EV_0146,2024-02-27,4,3,4,Keynote,Food,yes,Training
+EV_0147,2024-08-27,5,4,4,Networking,Food,yes,Conference
+EV_0148,2024-11-26,4,4,3,Keynote,Food,yes,Workshop
+EV_0149,2024-09-05,5,4,5,Q&A session,Food,yes,Conference
+EV_0150,2024-02-19,5,5,4,Keynote,Venue location,yes,Conference
+EV_0151,2024-06-30,3,4,3,Keynote,Long breaks,no,Training
+EV_0152,2024-12-17,5,4,5,Keynote,Food,yes,Training
+EV_0153,2024-09-12,4,5,5,Q&A session,Food,yes,Webinar
+EV_0154,2024-12-22,1,2,1,Networking,Food,no,Webinar
+EV_0155,2024-12-30,4,5,5,Keynote,Long breaks,yes,Webinar
+EV_0156,2024-03-04,1,2,2,Networking,Venue location,no,Webinar
+EV_0157,2024-10-10,5,5,5,Networking,Long breaks,yes,Conference
+EV_0158,2024-03-24,5,4,5,Q&A session,Food,yes,Webinar
+EV_0159,2024-06-10,4,4,5,Networking,Food,yes,Webinar
+EV_0160,2024-10-29,4,4,5,Networking,Food,yes,Webinar
+EV_0161,2024-05-08,5,5,5,Q&A session,Venue location,yes,Workshop
+EV_0162,2024-01-03,4,4,4,Keynote,Food,yes,Conference
+EV_0163,2024-11-03,5,4,5,Q&A session,Venue location,yes,Conference
+EV_0164,2024-04-15,5,5,5,Q&A session,Long breaks,yes,Webinar
+EV_0165,2024-02-27,4,4,4,Keynote,Long breaks,yes,Training
+EV_0166,2024-02-24,5,5,4,Keynote,Long breaks,yes,Webinar
+EV_0167,2024-08-03,5,5,5,Keynote,Long breaks,yes,Webinar
+EV_0168,2024-10-24,4,3,4,Networking,Venue location,yes,Webinar
+EV_0169,2024-11-23,5,5,5,Keynote,Long breaks,yes,Training
+EV_0170,2024-07-24,3,2,4,Keynote,Venue location,no,Training
+EV_0171,2024-05-13,1,2,1,Keynote,Food,no,Workshop
+EV_0172,2024-08-06,4,4,4,Networking,Long breaks,yes,Webinar
+EV_0173,2024-06-14,5,5,5,Q&A session,Food,yes,Webinar
+EV_0174,2024-08-20,5,5,5,Networking,Food,yes,Conference
+EV_0175,2024-05-18,5,5,5,Networking,Long breaks,yes,Webinar
+EV_0176,2024-11-26,4,4,5,Q&A session,Venue location,yes,Training
+EV_0177,2024-06-22,4,4,5,Networking,Venue location,yes,Webinar
+EV_0178,2024-10-01,2,3,2,Keynote,Food,no,Webinar
+EV_0179,2024-05-23,2,3,1,Q&A session,Long breaks,no,Training
+EV_0180,2024-11-02,4,3,3,Q&A session,Long breaks,yes,Conference
+EV_0181,2024-08-31,5,4,4,Keynote,Food,yes,Training
+EV_0182,2024-01-29,3,3,2,Networking,Long breaks,no,Webinar
+EV_0183,2024-02-21,4,3,5,Q&A session,Long breaks,yes,Workshop
+EV_0184,2024-10-06,3,2,4,Keynote,Long breaks,no,Workshop
+EV_0185,2024-06-13,4,5,3,Q&A session,Food,yes,Workshop
+EV_0186,2024-06-12,5,5,4,Keynote,Long breaks,yes,Webinar
+EV_0187,2024-11-11,4,3,5,Keynote,Long breaks,yes,Conference
+EV_0188,2024-07-31,4,4,5,Keynote,Long breaks,yes,Conference
+EV_0189,2024-11-24,5,5,5,Keynote,Venue location,yes,Training
+EV_0190,2024-09-05,4,5,3,Keynote,Food,yes,Training
+EV_0191,2024-05-13,4,5,5,Keynote,Venue location,yes,Conference
+EV_0192,2024-02-27,5,5,5,Networking,Food,yes,Training
+EV_0193,2024-05-31,5,5,5,Q&A session,Venue location,yes,Webinar
+EV_0194,2024-06-28,5,5,5,Q&A session,Long breaks,yes,Workshop
+EV_0195,2024-03-01,2,2,2,Keynote,Food,no,Conference
+EV_0196,2024-11-21,5,5,5,Q&A session,Venue location,yes,Workshop
+EV_0197,2024-05-19,3,4,3,Keynote,Venue location,no,Training
+EV_0198,2024-06-20,5,5,5,Networking,Food,yes,Training
+EV_0199,2024-08-13,1,1,1,Keynote,Venue location,no,Conference
