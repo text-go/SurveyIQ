@@ -6,7 +6,7 @@ from app.services.forecasting import run_forecast
 from app.models.user import User
 from app.models.analysis import ForecastResult
 from app.models.survey import Answer, Survey
-from app.schemas.analysis import ForecastResultResponse
+from app.models.schemas.analysis import ForecastResultResponse
 from fastapi import HTTPException
 from app.services.auth import get_current_user
 

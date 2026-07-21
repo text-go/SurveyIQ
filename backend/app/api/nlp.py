@@ -8,7 +8,7 @@ from app.services.reporting import build_report_summary, send_report_to_webhook
 from app.models.user import User
 from app.models.analysis import SentimentResult, Theme
 from app.models.survey import Answer, Question, Survey
-from app.schemas.analysis import AgentQueryRequest, AgentQueryResponse, ChatMessage, SentimentResponse, ThemeResponse, ReportDispatchRequest, ReportDispatchResponse
+from app.models.schemas.analysis import AgentQueryRequest, AgentQueryResponse, ChatMessage, SentimentResponse, ThemeResponse, ReportDispatchRequest, ReportDispatchResponse
 from app.services.auth import get_current_user
 
 router = APIRouter(prefix="/api/nlp", tags=["nlp"])

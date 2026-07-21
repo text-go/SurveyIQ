@@ -13,6 +13,9 @@ class Settings(BaseSettings):
     REPORT_WEBHOOK_URL: str = ""
     REPORT_DEFAULT_RECIPIENT: str = "survey-team"
     CORS_ORIGINS: list[str] = ["http://localhost:3000"]
+    APP_ENV: str = "development"
+    LOG_LEVEL: str = "INFO"
+    ENABLE_DOCS: bool = True
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
 

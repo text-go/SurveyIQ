@@ -4,7 +4,7 @@ from sqlalchemy.future import select
 from app.database import get_db
 from app.models.user import User
 from app.models.survey import Survey, Question, Response
-from app.schemas.survey import SurveyResponse, SurveyListResponse, SurveyUploadResponse, ResponseResponse
+from app.models.schemas.survey import SurveyResponse, SurveyListResponse, SurveyUploadResponse, ResponseResponse
 from app.services.auth import get_current_user
 from app.services.ingestion import parse_csv, parse_excel, create_survey_from_dataframe
 
